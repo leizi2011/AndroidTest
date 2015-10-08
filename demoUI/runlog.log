@@ -1,0 +1,3797 @@
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to F:\Auto\work\demoUI\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\Auto\work\demoUI\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\Auto\work\demoUI\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\Auto\work\demoUI\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+error: protocol fault (couldn't read status): No error
+error: device '(null)' not found
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+17 KB/s (5065 bytes in 0.278s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.demo.test.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testDemo
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testDemo
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 12.443
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\Auto\work\demoUI\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+54 KB/s (5117 bytes in 0.091s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.demo.test.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPress
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPress
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.548
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\Auto\work\demoUI\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+57 KB/s (5145 bytes in 0.088s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.demo.test.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPress
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPress
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 1.146
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\Auto\work\demoUI\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+48 KB/s (5341 bytes in 0.107s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.demo.test.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPress
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in testPress:
+
+com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[TEXT=Browser]
+
+	at com.android.uiautomator.core.UiObject.clickAndWaitForNewWindow(UiObject.java:432)
+
+	at com.android.uiautomator.core.UiObject.clickAndWaitForNewWindow(UiObject.java:410)
+
+	at com.demo.test.Test.testPress(Test.java:46)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPress
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[TEXT=Browser]
+
+	at com.android.uiautomator.core.UiObject.clickAndWaitForNewWindow(UiObject.java:432)
+
+	at com.android.uiautomator.core.UiObject.clickAndWaitForNewWindow(UiObject.java:410)
+
+	at com.demo.test.Test.testPress(Test.java:46)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 14.043
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\Auto\work\demoUI\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+30 KB/s (5342 bytes in 0.171s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.demo.test.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPress
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in testPress:
+
+com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[TEXT=Browser]
+
+	at com.android.uiautomator.core.UiObject.clickAndWaitForNewWindow(UiObject.java:432)
+
+	at com.android.uiautomator.core.UiObject.clickAndWaitForNewWindow(UiObject.java:410)
+
+	at com.demo.test.Test.testPress(Test.java:46)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPress
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[TEXT=Browser]
+
+	at com.android.uiautomator.core.UiObject.clickAndWaitForNewWindow(UiObject.java:432)
+
+	at com.android.uiautomator.core.UiObject.clickAndWaitForNewWindow(UiObject.java:410)
+
+	at com.demo.test.Test.testPress(Test.java:46)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 12.676
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\Auto\work\demoUI\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+28 KB/s (5342 bytes in 0.184s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.demo.test.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPress
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in testPress:
+
+com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[TEXT=Browser]
+
+	at com.android.uiautomator.core.UiObject.clickAndWaitForNewWindow(UiObject.java:432)
+
+	at com.android.uiautomator.core.UiObject.clickAndWaitForNewWindow(UiObject.java:410)
+
+	at com.demo.test.Test.testPress(Test.java:46)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPress
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[TEXT=Browser]
+
+	at com.android.uiautomator.core.UiObject.clickAndWaitForNewWindow(UiObject.java:432)
+
+	at com.android.uiautomator.core.UiObject.clickAndWaitForNewWindow(UiObject.java:410)
+
+	at com.demo.test.Test.testPress(Test.java:46)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 12.55
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+56 KB/s (5342 bytes in 0.092s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.demo.test.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPress
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPress
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 6.17
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\Auto\work\demoUI\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+34 KB/s (5223 bytes in 0.147s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.demo.test.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPress
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPress
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.986
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+71 KB/s (5223 bytes in 0.071s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.demo.test.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPress
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPress
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 2.401
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\Auto\work\demoUI\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+72 KB/s (5223 bytes in 0.070s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.demo.test.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPress
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPress
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 2.322
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\Auto\work\demoUI\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+62 KB/s (5224 bytes in 0.081s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.demo.test.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPress
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPress
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 2.386
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\Auto\work\demoUI\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+67 KB/s (5234 bytes in 0.076s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.demo.test.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPress
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testPress
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 12.41
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\Auto\work\demoUI\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+47 KB/s (5489 bytes in 0.112s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.demo.test.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testR
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testR
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 1.322
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\Auto\work\demoUI\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+70 KB/s (5511 bytes in 0.076s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.demo.test.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testR
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testR
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 6.785
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\Auto\work\demoUI\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+55 KB/s (5872 bytes in 0.103s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.demo.test.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testR
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 10
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 12
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 11
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testR
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 7.067
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\Auto\work\demoUI\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+71 KB/s (6218 bytes in 0.085s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.demo.test.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testR
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 10
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 12
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 11
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testR
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 8.063
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\Auto\work\demoUI\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+63 KB/s (6222 bytes in 0.096s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.demo.test.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testCall
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 10
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 11
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in testCall:
+
+java.lang.NullPointerException
+
+	at com.demo.test.Test.testCall(Test.java:122)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testCall
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: stack=java.lang.NullPointerException
+
+	at com.demo.test.Test.testCall(Test.java:122)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 8.014
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\Auto\work\demoUI\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+70 KB/s (6226 bytes in 0.086s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.demo.test.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testCall
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 10
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 11
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in testCall:
+
+java.lang.NullPointerException
+
+	at com.demo.test.Test.testCall(Test.java:120)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testCall
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: stack=java.lang.NullPointerException
+
+	at com.demo.test.Test.testCall(Test.java:120)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 10.252
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\Auto\work\demoUI\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+6 KB/s (6245 bytes in 0.919s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.demo.test.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testCall
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 10
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 11
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in testCall:
+
+java.lang.NullPointerException
+
+	at com.demo.test.Test.testCall(Test.java:121)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testCall
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: stack=java.lang.NullPointerException
+
+	at com.demo.test.Test.testCall(Test.java:121)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 9.848
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\Auto\work\demoUI\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+79 KB/s (6220 bytes in 0.076s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.demo.test.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testCall
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 10
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 11
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in testCall:
+
+java.lang.NullPointerException
+
+	at com.demo.test.Test.testCall(Test.java:122)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testCall
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: stack=java.lang.NullPointerException
+
+	at com.demo.test.Test.testCall(Test.java:122)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 7.798
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\Auto\work\demoUI\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+60 KB/s (6246 bytes in 0.101s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.demo.test.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testCall
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 10
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 11
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in testCall:
+
+com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[CLASS=android.widget.ImageButton, CLASS_REGEX=2]
+
+	at com.android.uiautomator.core.UiObject.clickAndWaitForNewWindow(UiObject.java:432)
+
+	at com.android.uiautomator.core.UiObject.clickAndWaitForNewWindow(UiObject.java:410)
+
+	at com.demo.test.Test.testCall(Test.java:119)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testCall
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[CLASS=android.widget.ImageButton, CLASS_REGEX=2]
+
+	at com.android.uiautomator.core.UiObject.clickAndWaitForNewWindow(UiObject.java:432)
+
+	at com.android.uiautomator.core.UiObject.clickAndWaitForNewWindow(UiObject.java:410)
+
+	at com.demo.test.Test.testCall(Test.java:119)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 17.95
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\Auto\work\demoUI\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+66 KB/s (6246 bytes in 0.092s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.demo.test.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testCall
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 10
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 11
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in testCall:
+
+com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[CLASS=android.widget.ImageButton, CLASS_REGEX=1]
+
+	at com.android.uiautomator.core.UiObject.clickAndWaitForNewWindow(UiObject.java:432)
+
+	at com.android.uiautomator.core.UiObject.clickAndWaitForNewWindow(UiObject.java:410)
+
+	at com.demo.test.Test.testCall(Test.java:119)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testCall
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[CLASS=android.widget.ImageButton, CLASS_REGEX=1]
+
+	at com.android.uiautomator.core.UiObject.clickAndWaitForNewWindow(UiObject.java:432)
+
+	at com.android.uiautomator.core.UiObject.clickAndWaitForNewWindow(UiObject.java:410)
+
+	at com.demo.test.Test.testCall(Test.java:119)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 17.643
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\Auto\work\demoUI\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+68 KB/s (6358 bytes in 0.091s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.demo.test.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testCall
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 10
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 11
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in testCall:
+
+java.lang.NullPointerException
+
+	at com.demo.test.Test.testCall(Test.java:127)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testCall
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: stack=java.lang.NullPointerException
+
+	at com.demo.test.Test.testCall(Test.java:127)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 7.131
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\Auto\work\demoUI\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+83 KB/s (6356 bytes in 0.074s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.demo.test.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testCall
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 10
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 11
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in testCall:
+
+java.lang.NullPointerException
+
+	at com.demo.test.Test.testCall(Test.java:127)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testCall
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: stack=java.lang.NullPointerException
+
+	at com.demo.test.Test.testCall(Test.java:127)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 10.06
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\Auto\work\demoUI\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+adb server is out of date.  killing...
+* daemon started successfully *
+5 KB/s (6507 bytes in 1.164s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.demo.test.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testAction
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 10
+
+延迟时间3000
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 11
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testAction
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.035
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\Auto\work\demoUI\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 6 seconds
+20 KB/s (6616 bytes in 0.312s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.demo.test.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testAction
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 10
+
+延迟时间3000
+
+延迟时间0
+
+延迟时间200
+
+延迟时间10000
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 11
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testAction
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.028
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\Auto\work\demoUI\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+34 KB/s (6912 bytes in 0.196s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.demo.test.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testAction
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 10
+
+延迟时间3000
+
+延迟时间0
+
+延迟时间200
+
+延迟时间10000
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 11
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testAction
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 6.352
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to F:\Auto\work\demoUI\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 46 seconds
+2 KB/s (7169 bytes in 2.662s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.demo.test.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testWatch
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 10
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 11
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testWatch
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 120.795
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file F:\Auto\work\demoUI\build.xml
+Buildfile: F:\Auto\work\demoUI\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.3.4
+ [checkenv] Installed at D:\Program Files (x86)\Android\android-sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 23.0.0
+     [echo] Resolving Build Target for DemoTest...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+    [mkdir] Created dir: F:\Auto\work\demoUI\bin\classes
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to F:\Auto\work\demoUI\bin\classes
+
+-post-compile:
+
+-dex:
+      [dex] input: F:\Auto\work\demoUI\bin\classes
+      [dex] Converting compiled files and external libraries into F:\Auto\work\demoUI\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: F:\Auto\work\demoUI\bin\DemoTest.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+46 KB/s (7432 bytes in 0.157s)
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+WARNING: linker: libdvm.so has text relocations. This is wasting memory and is a security risk. Please fix.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.demo.test.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testWatch
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 10
+
+kaishile
+
+INSTRUMENTATION_STATUS: key1=value1
+
+INSTRUMENTATION_STATUS: key2=value2
+
+INSTRUMENTATION_STATUS: key3=value3
+
+INSTRUMENTATION_STATUS: key4=value4
+
+INSTRUMENTATION_STATUS_CODE: 11
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in testWatch:
+
+com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[CLASS=android.widget.LinearLayout, INDEX=4, CHILD=UiSelector[TEXT=Sound]]
+
+	at com.android.uiautomator.core.UiObject.clickAndWaitForNewWindow(UiObject.java:432)
+
+	at com.android.uiautomator.core.UiObject.clickAndWaitForNewWindow(UiObject.java:410)
+
+	at com.demo.test.Test.testWatch(Test.java:203)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testWatch
+
+INSTRUMENTATION_STATUS: class=com.demo.test.Test
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[CLASS=android.widget.LinearLayout, INDEX=4, CHILD=UiSelector[TEXT=Sound]]
+
+	at com.android.uiautomator.core.UiObject.clickAndWaitForNewWindow(UiObject.java:432)
+
+	at com.android.uiautomator.core.UiObject.clickAndWaitForNewWindow(UiObject.java:410)
+
+	at com.demo.test.Test.testWatch(Test.java:203)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 11.715
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
